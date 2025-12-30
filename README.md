@@ -1,2 +1,8 @@
-# rock-paper-scissors
-A simple CLI Rock-Paper-Scissors game vs the computer with score tracking.
+# Rock Paper Scissors 🎮 (CLI)
+
+A simple command-line Rock Paper Scissors game where you play against the computer.
+Includes input validation and score tracking (wins / losses / draws).
+
+## How to Run
+```bash
+python game.py
